@@ -3,7 +3,9 @@ layout: post
 title: Dehydration and hyperthermia pose dangers for seniors
 ---
 
+<p class="message">
 As the weather improves and temperatures rise, the risks of dehydration and hyperthermia increase for many older adults. Alarmingly, dehydration is one of the top 10 reasons for hospitalizations for those over 65.
+</p>
 
 Many seniors notice that they are not as thirsty on a day-to-day basis as they were at younger ages. In fact, many older adults mistake the sensation of thirst for hunger. This loss in thirst is most prevalent in those 50 and older, and awareness of thirst continues to diminish. With age, the way our bodies metabolize and use water changes. This reason alone makes it extremely important for seniors to be more conscientious about drinking fluids throughout the day.
 
@@ -28,3 +30,5 @@ Following are simple tips to help stay well hydrated during the summer months.
 - Avoid excessive sugary and caffeinated drinks that can alter kidney function or serve as a diuretic. Vegetable juice, low-fat milk and herbal teas are good alternatives. A simple rule of thumb: The bladder should become full in three to five hours, and urine color should be light yellow. Dark-yellow urine is normally an indicator that you need to drink more water. If you experience burning or pain with urination, consult a physician.
 - Keep water available in the car and by the bedside. You’re more likely to drink it if you see it.
 - If you drink coffee or highly caffeinated products, replenish with 2 cups of water for every cup of coffee.
+
+> Published in the Los Altos Town Crier, May 2010
