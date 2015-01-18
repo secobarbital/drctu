@@ -3,28 +3,29 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Dr. Charmaine Tu is a chiropractic physician in Los Altos.  Dr. Tu has been in practice for 10+ years, previously serving the communities of Stanford and Menlo Park.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Delivering effective chiropractic treatment to people of all ages and body types, Dr. Tu is trained with the latest techniques in structural integration.  She has worked extensively with athletes, including professional golfers, olympic-bound track athletes, basketball players, and IronMan triathletes.  She also offers counseling in the areas of nutrition, stress management, diet, and exercise. 
 
-There are currently two themes built on Poole:
+Dr. Tu is an avid athlete herself -- swimming & golfing are favorites -- she understands the biomechanics involved in delivering an efficient stroke thru the water and a solid drive off the tee.   Maintaining range of motion and flexibility throughout the spine and body are essential elements to keeping an active lifestyle.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+Dr. Tu received her Bachelor’s in Cell Biology with a minor in Genetics from the University of British Columbia, Canada, and then earned her doctorate with Cum Laude honors from Palmer College of Chiropractic West.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+## Specializations
+- Low Back Pain
+- Headaches
+- Pregnancy Discomfort
+- Performance enhancement for both the avid athlete and weekend warrior
 
-## Setup
+## Education
+<dl>
+  <dt>Doctorate of Chiropractic</dt>
+  <dd>Palmer College of Chiropractic West</dd>
+</dl>
+<dl>
+  <dt>BSc in Cell Biology with minor in Genetics</dt>
+  <dd>University of British Columbia</dd>
+</dl>
 
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+## Helper in Healing
+"Guiness" - 10 yr old Chocolate Lab
