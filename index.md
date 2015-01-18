@@ -10,6 +10,7 @@ title:
   <img class="welcome-banner-image" src="http://www.drctu.com/Dr._Charmaine_L._Tu-Chiropractic_Physician/Welcome_files/iStock_000008737455XSmall.jpg">
   <img class="welcome-banner-image" src="http://www.drctu.com/Dr._Charmaine_L._Tu-Chiropractic_Physician/Welcome_files/shapeimage_1.jpg">
 </div>
+<div class="clear"></div>
 
 <p class="message">
   Health through Chiropractic Care
