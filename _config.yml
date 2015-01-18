@@ -7,9 +7,9 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            'Dr. Charmaine L. Tu'
-tagline:          'Chiropractor'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:            'Dr. Charmaine Tu'
+tagline:          'Chiropractic Physician'
+description:      'Chiropractor'
 url:              http://www.drctu.com
 baseurl:          /drctu/
 
