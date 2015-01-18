@@ -1,15 +1,20 @@
 <div class="sidebar">
   <div class="container sidebar-sticky">
-    <div class="sidebar-about">
+    <div class="sidebar-about" itemscope itemtype="http://schema.org/Organization">
       <h1>
-        <a href="{{ site.baseurl }}">
-          <p><img class="sidebar-about-avatar" src="{{ site.avatar }}" alt="Avatar"></p>
-          {{ site.title }}
+        <a href="{{ site.baseurl }}" itemprop="url">
+          <p><img class="sidebar-about-avatar" itemprop="logo" src="{{ site.avatar }}" alt="Avatar"></p>
+          <span itemprop="name">{{ site.title }}</span>
         </a>
       </h1>
       <p class="lead">{{ site.description }}</p>
       <p class="lead">
-        <a href="tel:+16507875570">(650) 787-5570</a><br>
+        <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+          <span itemprop="streetAddress">851 Fremont Ave, Suite #111</span>
+          <span itemprop="addressLocality">Los Altos</span>,
+          <span itemprop="addressRegion">CA</span>
+        </div>
+        <a href="tel:+16507875570" itemprop="telephone">(650) 787-5570</a><br>
         <a href="mailto:health@drctu.com">health@drctu.com</a>
       </p>
       <dl class="hours">
