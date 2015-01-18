@@ -2,6 +2,10 @@
   font-size: 1.5rem;
 }
 
+.hours {
+  font-size: 0.9rem;
+}
+
 .hours-item {
   margin-bottom: 0;
   margin-left: 1rem;
