@@ -11,7 +11,7 @@ title:            'Dr. Charmaine Tu'
 tagline:          'Chiropractic Physician'
 description:      'Chiropractor'
 url:              http://www.drctu.com
-baseurl:          /drctu/
+baseurl:          /
 
 author:
   name:           'Dr. Charmaine L. Tu'
