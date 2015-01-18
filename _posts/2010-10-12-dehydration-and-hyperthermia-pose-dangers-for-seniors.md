@@ -26,9 +26,12 @@ Although each person’s ideal water intake varies depending on other conditions
  
 ### Staying hydrated...
 Following are simple tips to help stay well hydrated during the summer months.
+
 - Drink 8-10 8-ounce glasses of water a day. Sip water slowly throughout the day, rather than gulping it.
 - Avoid excessive sugary and caffeinated drinks that can alter kidney function or serve as a diuretic. Vegetable juice, low-fat milk and herbal teas are good alternatives. A simple rule of thumb: The bladder should become full in three to five hours, and urine color should be light yellow. Dark-yellow urine is normally an indicator that you need to drink more water. If you experience burning or pain with urination, consult a physician.
 - Keep water available in the car and by the bedside. You’re more likely to drink it if you see it.
 - If you drink coffee or highly caffeinated products, replenish with 2 cups of water for every cup of coffee.
 
-> Published in the Los Altos Town Crier, May 2010
+-----
+
+*Published in the Los Altos Town Crier, May 2010*
