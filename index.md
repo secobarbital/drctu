@@ -12,9 +12,8 @@ title:
 </div>
 <div class="clear"></div>
 
-<p class="message">
-  Health through Chiropractic Care
-</p>
+
+# Health through Chiropractic Care
 
 Chiropractic is a safe, non-invasive, & drug-free form of health care that can help the following and more!
 
